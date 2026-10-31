@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="prjMST/prjMST.csproj" />
+  <Project Path="prjMSTPriority/prjMSTPriority.csproj" Id="279d87a0-768b-43ee-b0ea-101c02446bf7" />
+  <Project Path="prjWifi/prjWifi.csproj" Id="c7516619-f6e2-4591-b00d-7b2c2d1dc64e" />
+</Solution>
